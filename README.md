@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### Contact
 
-  <a href="yeomfilm@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
+  <a href="yeomfilm@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-### Familiar Tech Stack:
+<br/>
+
+### Familiar Tech Stack
 
 <!-- language -->
 
@@ -29,9 +29,13 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Used Tools:
+### Used Tools
 
 [![](https://skillicons.dev/icons?i=git,github,postman)]()
 
 
 <br />
+
+### Github Stats
+
+![Minjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomminjeong&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
