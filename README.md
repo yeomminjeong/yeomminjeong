@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! 👋
 
 <!--
 **yeomminjeong/yeomminjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact
+
+  <a href="yeomfilm@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+
+### Familiar Tech Stack:
+
+<!-- language -->
+
+[![](https://skillicons.dev/icons?i=java,spring,mysql,python,js,html,css)]()
+
+<br/>
+
+### Used Tools:
+
+[![](https://skillicons.dev/icons?i=git,github,postman)]()
+
+
+<br />
