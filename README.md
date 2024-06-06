@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Used Tools
 
-[![](https://skillicons.dev/icons?i=git,github,postman)]()
+[![](https://skillicons.dev/icons?i=git,github)]()
 
 
 <br />
